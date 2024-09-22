@@ -1,0 +1,270 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.project {
+    width: 900px;
+    height: 1870px;
+    margin: 0 auto;
+    border-left: solid whitesmoke;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+.all-content {
+    display: flex;
+    width: 1110px;
+    margin: 0 auto;
+    justify-content: space-between;
+    /* 
+    background-image: url("images/Samsung-Galaxy-Z-Fold-6-b-300x300.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat ;
+    */
+
+
+}
+
+a {
+    width: 100px;
+    font-weight: bolder;
+    font-family: sans-serif;
+    /* flex-basis:1 ; */
+    /* margin-right: 250px; */
+    /* align-items: center; */
+    margin-top:20px;
+    color: whitesmoke;
+    border-radius: 6px;
+    border: 2px solid black;
+    background-color: rgb(10, 105, 10);
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+/* 
+body {
+    background-color: antiquewhite;
+}
+ */
+.content {
+    width: 450px;
+    margin: 0 auto;
+    justify-self: flex-end;
+    /* margin: 10PX; */
+    /* background-image:"src=images/Samsung-Galaxy-Z-Fold-6-b-300x300.jpg"; */
+
+}
+
+button {
+    display: block;
+    width: 200px;
+    height: 80px;
+    background-color:rgb(87, 86, 86);
+    color: whitesmoke;
+    margin-bottom:12px;
+    border-radius: 12px;
+    font-size: large;
+}
+.button {
+    display: flex;
+    justify-content: space-between;
+    border: 0;
+    
+}
+
+ .login { 
+     width: 300px;
+    margin-top:  3px;
+    /* margin-top: 100px; */
+    /* padding: 20px; */
+    /* height: 250px; */
+    /* text-align: end; */
+    /* display:inline-block */
+    /* align-item:center; */
+
+    
+}
+    h1 {
+        width: 900px;
+        height: 60px;
+        /* align-items: center; */
+        margin-left: 70px;
+        margin: 0 auto;
+        margin-top: 15px;
+        color: rgb(233, 232, 231);
+        border-radius:8px ;
+        font-size: 40px;
+        background-color: rgb(88, 88, 138);
+        
+        /* text-align: left; */
+    }
+    .pp {
+        width: 200px;
+        font-family: sans-serif;
+        border-radius: 8px;
+        font-weight:bold;
+        margin: 0 0;
+        margin-bottom: 0px;
+        background-color:  rgb(88, 88, 138);
+    }
+    
+    h2 {
+        font-family: sans-sserif;
+        border-radius: 7px;
+        width: 70px;
+        margin-top: 20px;
+        /* color: aliceblue; */
+        /* background-color: aliceblue; */
+}
+
+
+
+.button-submit {
+    width: 110px;
+    height: 50px;
+    margin:0 15px;
+    border-radius: 8px;
+    margin:  0;
+   
+}
+button:hover{
+    background-color: blue;
+    color: black;
+}
+
+
+p {
+    margin: 20px 0;
+    color: aliceblue;
+
+}
+label {
+    margin-top: 15px;
+    padding-top: 0px;
+    font-weight: bold;
+    /* color: aliceblue; */
+    /* margin: 30px; */
+    /* background-color: aliceblue; */
+    border-radius: 5px;
+}
+input {
+    width: 300px;
+    margin-top:12px;
+    margin-bottom: 12px;
+    height: 20px;
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+.checkbox {
+    display:flex;
+    flex: 1;
+    margin-left: 0;
+    justify-content: left;
+    
+}
+.select {
+    border-radius: 5px;
+    margin-top: 30px;
+    background-color: rgb(26, 231, 163);
+    font-size: large;
+    width: 110px;
+    /* padding-top:20px; */
+    border: 2px solid black;
+}
+
+.img {
+    display: flex;
+    /* width: 80px; */
+    width: 200px;
+    height: 300px;
+    margin: o auto;
+    gap: 11px;
+}
+/*  
+img:hover {
+    width: 300px;
+    height: 500px;
+}
+*/
+
+
+
+.img-up {
+    /* display: block; */
+    width: 200px;
+    height: 300px;
+    /* /* height: 100px; */
+}
+
+.price{
+    color: rgb(247, 16, 16);
+    margin-left: 20px;
+}
+
+.phone-names {
+    color: blue;
+}
+.horizontal-line {
+    border-left:2 px;
+    height: 900px;
+    color: solid black;
+}
+
+hr {
+    width: 160px;
+}
+
+.button-guide {
+    color:blue;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: 900;
+
+}
+.top-p {
+    display: flex;
+    gap: 600px;
+    /* justify-content: space-between; */
+}
+
+.location {
+    margin: 0 0;
+    color: rgb(196, 105, 105);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
